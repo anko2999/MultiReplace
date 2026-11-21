@@ -1,0 +1,13 @@
+# build outputs
+bin/
+obj/
+dist/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# tool backups / local test data
+*.bak
+TEST_DATA/
