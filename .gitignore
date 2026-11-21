@@ -11,3 +11,6 @@ dist/
 # tool backups / local test data
 *.bak
 TEST_DATA/
+
+# exported archives
+export/
